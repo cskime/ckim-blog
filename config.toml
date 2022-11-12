@@ -1,4 +1,4 @@
-baseURL = "https://ckim.netlify.app/"
+baseURL = "https://ckim.netlify.app"
 languageCode = "ko-kr"
 title = "개발 노트"
 theme = "github-style"
