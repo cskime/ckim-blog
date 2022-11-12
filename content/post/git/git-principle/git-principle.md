@@ -1,8 +1,8 @@
 ---
-title: "The Principle of How Git Works?"
+title: "Git 기본 원리"
 date: 2022-11-12T11:36:52+09:00
 draft: false
-summary: "How git knows file changes? How git create commits?"
+summary: "Git은 수정된 파일을 어떻게 알 수 있을까? Git은 commit, branch를 어떻게 관리할까?"
 tags: [git]
 ---
 
