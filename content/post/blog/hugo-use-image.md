@@ -2,6 +2,7 @@
 title: "Simple Way to Add Image to Hugo Post"
 date: 2022-11-11T21:27:07+09:00
 draft: false
+summary: "How to use image in post."
 tags: ['blog']
 ---
 

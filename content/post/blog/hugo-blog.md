@@ -2,6 +2,7 @@
 title: "Quick Start Hugo Blog with Netlify"
 date: 2022-11-11T21:27:07+09:00
 draft: false
+summary: "Easy way to start tect blog with Hugo + Netlify."
 tags: ['blog']
 ---
 
