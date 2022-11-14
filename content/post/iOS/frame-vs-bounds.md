@@ -1,6 +1,6 @@
 ---
 title: "Frame과 Bounds 차이"
-date: 2022-02-24T00:00:00+09:00
+date: 2022-11-13T23:00:00+09:00
 draft: false
 summary: "Frame과 Bounds 속성의 차이"
 tags: ['iOS']
