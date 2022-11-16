@@ -2,7 +2,7 @@ baseURL = "https://ckim.netlify.app"
 languageCode = "ko-kr"
 title = "개발 노트"
 theme = "github-style"
-googleAnalytics = "UA-123456-789"
+googleAnalytics = "G-KM5RP5ZF3F"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
